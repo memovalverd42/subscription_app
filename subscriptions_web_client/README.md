@@ -44,7 +44,7 @@ Para empezar a trabajar con la aplicación, sigue estos pasos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/gestion-suscripciones.git
+git clone https://github.com/memovalverd42/subscription_app
 cd gestion-suscripciones
 ```
 
